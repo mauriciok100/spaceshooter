@@ -1,0 +1,4 @@
+git add .
+git commit -m "o que vc fez nessa atualizacao"
+git push -u origin main
+

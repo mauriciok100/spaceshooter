@@ -12,6 +12,7 @@
     {"id":{"name":"obj_inicio_tiro","path":"objects/obj_inicio_tiro/obj_inicio_tiro.yy",},"order":5,},
     {"id":{"name":"spr_inimigo02","path":"sprites/spr_inimigo02/spr_inimigo02.yy",},"order":9,},
     {"id":{"name":"spr_player","path":"sprites/spr_player/spr_player.yy",},"order":0,},
+    {"id":{"name":"obj_controller","path":"objects/obj_controller/obj_controller.yy",},"order":11,},
     {"id":{"name":"wpr_fundo02","path":"sprites/wpr_fundo02/wpr_fundo02.yy",},"order":1,},
     {"id":{"name":"obj_tiro_inimigo01","path":"objects/obj_tiro_inimigo01/obj_tiro_inimigo01.yy",},"order":3,},
     {"id":{"name":"obj_col_limite","path":"objects/obj_col_limite/obj_col_limite.yy",},"order":10,},
